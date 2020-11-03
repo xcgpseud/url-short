@@ -1,0 +1,13 @@
+{
+    "name": "xcgpseud/url-short",
+    "description": "Url Shortener API",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "xcgpseud",
+            "email": "chris.evans92@hotmail.com"
+        }
+    ],
+    "require": {}
+}

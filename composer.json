@@ -9,5 +9,10 @@
             "email": "chris.evans92@hotmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "phpunit/phpunit": "^9.4",
+        "miladrahimi/phprouter": "^4.0",
+        "doctrine/collections": "^1.6",
+        "nesbot/carbon": "^2.41"
+    }
 }
